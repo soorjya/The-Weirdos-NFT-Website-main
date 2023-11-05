@@ -1,5 +1,7 @@
 # How to Create NFT Collection Landing Page in React JS
 
+
+<!---
 ![GitHub stars](https://img.shields.io/github/stars/codebucks27/The-Weirdos-NFT-Website-Starter-Code?style=social&logo=ApacheSpark&label=Stars&maxAge=2592000)&nbsp;&nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/codebucks27/The-Weirdos-NFT-Website-Starter-Code?style=social&logo=KashFlow)&nbsp;&nbsp;
 ![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow&maxAge=2592000)&nbsp;&nbsp;<br />
@@ -15,6 +17,8 @@ https://youtu.be/edr2o59Twrs <br />
 
 ⭐⭐⭐⭐ This repo is nominated in [Top How To Nft Open-Source Projects on Github](https://gitclone.dev/top-how-to-nft-open-source-projects-on-github/).
 
+ This is an HTML comment in Markdown -->
+
 ### NOTE:  <br />
 There is one change in the Button.js File.  <br />
 Wrap Btn inside Link component like below for the link to work.
@@ -25,11 +29,19 @@ Wrap Btn inside Link component like below for the link to work.
 ```
 
 ### Images of The NFT Collection Website:
+
+![Home](https://github.com/soorjya/The-Weirdos-NFT-Website-main/assets/99492724/3b0d4ea2-1841-4506-ae76-85edde66f9aa)
+![About](https://github.com/soorjya/The-Weirdos-NFT-Website-main/assets/99492724/766f83c6-f06d-44c9-a414-f733b2cff269)
+
+![Home-1 - Mobile](https://github.com/soorjya/The-Weirdos-NFT-Website-main/assets/99492724/610d8f96-f52f-4aae-a50d-d1f7a8ed6601)                    ![Home-2- Mobile](https://github.com/soorjya/The-Weirdos-NFT-Website-main/assets/99492724/a06344a4-249a-43bd-a2ef-94cd60312e8c)
+
+
+<!---
 ![HOME](https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code/blob/main/Home%20-%20Desktop.png)
 ![ABOUT](https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code/blob/main/Home-2%20-%20Desktop.png)
 ![HOME](https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code/blob/main/Home-1%20-%20Mobile.png)
 ![MENU](https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code/blob/main/Home-2-%20Mobile.png)
-
+--->
 
 ### Resources Used in This Project
 
